@@ -26,4 +26,4 @@ exports.update      = $update;
 exports.validators  = $validators;
 
 exports.data        = {};
-exports.loadData     = function(dir){ exports.data = $dataTables.load(dir) };
+exports.loadData    = function(dir){ exports.data = $dataTables.load(dir) };
