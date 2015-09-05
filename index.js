@@ -35,4 +35,5 @@ exports.loadData = function(dir){
     exports.data = $dataTables.load(dir);
     exports.dataObjects = $dataTables.dataObjects;
     exports.routineDefinitions = $dataTables.routineDefinitions;
+    exports.helpers = $dataTables.helpers;
 };
