@@ -20,7 +20,7 @@
     "node-uuid": "^1.4.1",
     "pg": "^4.2.0",
     "q": "^1.0.1",
-    "sql-string": "^1.0.1",
+    "sql-string": "^1.0.2",
     "underscore": "^1.6.0",
     "underscore.string": "^3.1.1",
     "validator": "^3.17.0"
