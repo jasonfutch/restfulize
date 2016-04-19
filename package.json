@@ -1,7 +1,7 @@
 {
   "name": "restfulize",
   "description": "Node.js restful framework",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "author": {
     "name": "Jason Futch",
     "email": "jasonfutch@gmail.com"
@@ -17,7 +17,7 @@
     "dateformat": "^1.0.12",
     "extend": "^3.0.0",
     "node-uuid": "^1.4.7",
-    "pg": "^4.5.1",
+    "pg": "^4.5.3",
     "q": "^1.4.1",
     "sql-string": "^1.0.6",
     "underscore": "^1.8.3",
