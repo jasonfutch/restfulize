@@ -6,10 +6,8 @@
     "name": "Jason Futch",
     "email": "jasonfutch@gmail.com"
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jasonfutch/restfulize"
+  "bugs": {
+    "url": "https://github.com/jasonfutch/restfulize/issues"
   },
   "dependencies": {
     "async": "^1.5.2",
@@ -29,14 +27,17 @@
   "engines": {
     "node": ">= 0.8"
   },
-  "bugs": {
-    "url": "https://github.com/jasonfutch/restfulize/issues"
-  },
   "homepage": "https://github.com/jasonfutch/restfulize",
+  "license": "MIT",
+  "main": "./index.js",
   "maintainers": [
     {
       "name": "jasonfutch",
       "email": "jasonfutch@gmail.com"
     }
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonfutch/restfulize"
+  }
 }
