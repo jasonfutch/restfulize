@@ -1,7 +1,7 @@
 {
   "name": "restfulize",
   "description": "Node.js restful framework",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "author": {
     "name": "Jason Futch",
     "email": "jasonfutch@gmail.com"
